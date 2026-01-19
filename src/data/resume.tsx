@@ -8,7 +8,7 @@ export const DATA = {
   location: "Gujarat, India",
   locationLink: "https://www.google.com/maps/place/sanfrancisco",
   description:
-    "Video Editor turned Software Engineer. I love building things and helping people. Very active on Twitter.",
+    " Software Engineer. I love building things and helping people. Very active on Twitter.",
   summary:"Full-Stack Engineer with hands-on experience building production web applications and AI-powered features",
 
   avatarUrl: "/me.jpg",
@@ -117,7 +117,7 @@ export const DATA = {
       links: [
         {
           type: "Website",
-          href: "https://stock-market-delta-three.vercel.app/sign-in",
+          href: "https://stock-market-delta-three.vercel.app",
           icon: <Icons.globe className="size-3" />,
         },
         {
@@ -178,6 +178,11 @@ export const DATA = {
           href: "https://github.com/akshat1074/Subconcious",
           icon: <Icons.github className="size-3" />,
         },
+        {
+          type:"Demo",
+          href:"https://x.com/scramber01/status/1926154841207808226",
+          icon: <Icons.youtube className="size-3"/>
+        }
       ],
       image: "/Subconcious.png",
       video: "",
@@ -198,6 +203,12 @@ export const DATA = {
         "Socket.io"
       ],
       links: [
+        {
+          type:"Source",
+          href:"https://github.com/akshat1074/Chat",
+          icon:<Icons.github className="size=3"/>
+
+      }
        
       ],
       image: "/Chatty.png",
