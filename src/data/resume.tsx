@@ -24,6 +24,7 @@ export const DATA = {
     "Docker",
     "Kubernetes",
     "CI/CD",
+    "Terraorm"
     
   ],
   navbar: [
@@ -77,7 +78,7 @@ export const DATA = {
       href: "https://www.ed3hub.com/",
       badges: [],
       location: "Remote",
-      title: "Founding Frontend Developer",
+      title: "Founding Developer Intern",
       logoUrl: "/atomic.png",
       start: "June 2025",
       end: "Dec 2025",
@@ -101,7 +102,7 @@ export const DATA = {
     {
       title: "Signalist",
       href: "",
-      dates: "Jan 2024 - Feb 2024",
+      dates: "Jan 2026 - Jan 2026",
       active: true,
       description:
         "Build and Deploy a Real-Time Stock Market App with Alerts, Charts & AI Insights.",
@@ -134,7 +135,7 @@ export const DATA = {
     {
       title: "AI logo generator",
       href: "",
-      dates: "June 2023 - Present",
+      dates: "Dec 2025 - Jan 2026",
       active: true,
       description:
         "Designed, developed and sold animated UI components for developers.",
@@ -161,7 +162,7 @@ export const DATA = {
     {
       title: "Subconcious",
       href: "",
-      dates: "April 2023 - September 2023",
+      dates: "Jan 2025 - Feb 2025",
       active: true,
       description:
         "Developed an app that stores your Important Links,Tweets and Notes.",
@@ -189,25 +190,24 @@ export const DATA = {
       video: "",
     },
     {
-      title: "Chatty",
+      title: "Production-Ready API Service & CI/CD Pipeline",
       href: "",
-      dates: "April 2023 - March 2024",
+      dates: "Nov 2025 - Dec 2025",
       active: true,
       description:
-        "Developed a real time chat application with room creation.",
+        "A production-ready template for a Node.js API service with full CI/CD pipeline and Infrastructure as Code.",
       technologies: [
-        "React",
         "Nodejs",
-        "MongoDB",
-        "Mongoose",
-        "TailwindCSS",
-        "Socket.io"
+        "Docker",
+        "CI/CD",
+        "AWS",
+        "Terraform"
       ],
       links: [
         {
           type:"Source",
-          href:"https://github.com/akshat1074/Chat",
-          icon:<Icons.github className="size=3"/>
+          href:"https://github.com/akshat1074/CI-CD",
+          icon:<Icons.github className="size-3"/>
 
       }
        
