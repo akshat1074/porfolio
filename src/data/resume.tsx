@@ -8,7 +8,7 @@ export const DATA = {
   location: "Gujarat, India",
   locationLink: "https://www.google.com/maps/place/sanfrancisco",
   description:
-    " Software Engineer. I love building things and helping people. Very active on Twitter.",
+    "Engineer With multiple hats. I love building things and helping people. Very active on Twitter.",
   summary:"Full-Stack Engineer with hands-on experience building production web applications and AI-powered features",
 
   avatarUrl: "/me.jpg",
@@ -16,6 +16,8 @@ export const DATA = {
     "React",
     "Next.js",
     "Typescript",
+    "GSAP",
+    "three.js",
     "Node.js",
     "Redux",
     "Python",
@@ -24,7 +26,7 @@ export const DATA = {
     "Docker",
     "Kubernetes",
     "CI/CD",
-    "Terraorm"
+    
     
   ],
   navbar: [
@@ -190,20 +192,25 @@ export const DATA = {
       video: "",
     },
     {
-      title: "Production-Ready API Service & CI/CD Pipeline",
+      title: "Nimbus vapour75",
       href: "",
       dates: "Nov 2025 - Dec 2025",
       active: true,
       description:
-        "A production-ready template for a Node.js API service with full CI/CD pipeline and Infrastructure as Code.",
+        "Built an Ecommerce Keyboard Website with stunning animation and motions along with 3D objects.",
       technologies: [
-        "Nodejs",
-        "Docker",
-        "CI/CD",
-        "AWS",
-        "Terraform"
+        "Nextjs",
+        "Typescript",
+        "three.js",
+        "GSAP",
+        "Prismic"
       ],
       links: [
+        {
+          type: "Website",
+          href: "https://nimbus-keyboards.vercel.app/.",
+          icon: <Icons.globe className="size-3" />,
+        },
         {
           type:"Source",
           href:"https://github.com/akshat1074/CI-CD",
@@ -212,7 +219,7 @@ export const DATA = {
       }
        
       ],
-      image: "/Chatty.png",
+      image: "/nimbus.png",
       video:
         "",
     },
