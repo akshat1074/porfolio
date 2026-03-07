@@ -170,11 +170,13 @@ export const DATA = {
         "Developed an app that stores your Important Links,Tweets and Notes.",
       technologies: [
         "React",
+        "Typescript",
         "TailwindCSS",
         "Nodejs",
         "Expressjs",
-        "MongoDB",
-        "JWT",
+        "Prisma",
+        "PostgreSQL"
+        
       ],
       links: [
         {
@@ -184,11 +186,11 @@ export const DATA = {
         },
         {
           type:"Demo",
-          href:"https://x.com/scramber01/status/1926154841207808226",
+          href:"https://youtu.be/dCCO9glWXNE",
           icon: <Icons.youtube className="size-3"/>
         }
       ],
-      image: "/Subconcious.png",
+      image: "/Subconcious3.png",
       video: "",
     },
     {
@@ -213,7 +215,7 @@ export const DATA = {
         },
         {
           type:"Source",
-          href:"https://github.com/akshat1074/CI-CD",
+          href:"https://github.com/akshat1074",
           icon:<Icons.github className="size-3"/>
 
       }
