@@ -180,6 +180,11 @@ export const DATA = {
       ],
       links: [
         {
+          type: "Website",
+          href: "https://subconcious-ktqzt181s-akshat1074s-projects.vercel.app/login",
+          icon: <Icons.globe className="size-3" />,
+        },
+        {
           type: "Source",
           href: "https://github.com/akshat1074/Subconcious",
           icon: <Icons.github className="size-3" />,
