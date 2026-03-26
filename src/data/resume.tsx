@@ -102,6 +102,43 @@ export const DATA = {
   ],
   projects: [
     {
+      title: "Subconcious",
+      href: "",
+      dates: "Jan 2025 - Feb 2025",
+      active: true,
+      description:
+        "Developed an app that stores your Important Links,Tweets and Notes.",
+      technologies: [
+        "React",
+        "Typescript",
+        "TailwindCSS",
+        "Nodejs",
+        "Expressjs",
+        "Prisma",
+        "PostgreSQL"
+        
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://subconcious-ktqzt181s-akshat1074s-projects.vercel.app/login",
+          icon: <Icons.globe className="size-3" />,
+        },
+        {
+          type: "Source",
+          href: "https://github.com/akshat1074/Subconcious",
+          icon: <Icons.github className="size-3" />,
+        },
+        {
+          type:"Demo",
+          href:"https://youtu.be/dCCO9glWXNE",
+          icon: <Icons.youtube className="size-3"/>
+        }
+      ],
+      image: "/Subconcious3.png",
+      video: "",
+    },
+    {
       title: "Signalist",
       href: "",
       dates: "Jan 2026 - Jan 2026",
@@ -161,43 +198,7 @@ export const DATA = {
       image: "",
       video: "https://cdn.magicui.design/bento-grid.mp4",
     },
-    {
-      title: "Subconcious",
-      href: "",
-      dates: "Jan 2025 - Feb 2025",
-      active: true,
-      description:
-        "Developed an app that stores your Important Links,Tweets and Notes.",
-      technologies: [
-        "React",
-        "Typescript",
-        "TailwindCSS",
-        "Nodejs",
-        "Expressjs",
-        "Prisma",
-        "PostgreSQL"
-        
-      ],
-      links: [
-        {
-          type: "Website",
-          href: "https://subconcious-ktqzt181s-akshat1074s-projects.vercel.app/login",
-          icon: <Icons.globe className="size-3" />,
-        },
-        {
-          type: "Source",
-          href: "https://github.com/akshat1074/Subconcious",
-          icon: <Icons.github className="size-3" />,
-        },
-        {
-          type:"Demo",
-          href:"https://youtu.be/dCCO9glWXNE",
-          icon: <Icons.youtube className="size-3"/>
-        }
-      ],
-      image: "/Subconcious3.png",
-      video: "",
-    },
+
     {
       title: "Nimbus vapour75",
       href: "",
