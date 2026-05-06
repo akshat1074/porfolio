@@ -172,28 +172,31 @@ export const DATA = {
         "",
     },
     {
-      title: "AI logo generator",
+      title: "AI Radiologist",
       href: "",
       dates: "Dec 2025 - Jan 2026",
       active: true,
       description:
-        "Designed, developed and sold animated UI components for developers.",
+        "Developed an AI Radiologist that give detail report on X-rays.",
       technologies: [
         "Next.js",
-        "Typescript",
-        "PostgreSQL",
-        "Prisma",
+        "Python",
         "TailwindCSS",
-        "Gemini API",
-        "Shadcn UI",
+        "Hugging Face",
+        
         
       ],
       links: [
       {
           type: "Source",
-          href: "https://github.com/akshat1074/AI-logo-gen",
+          href: "https://github.com/akshat1074/medsee",
           icon: <Icons.github className="size-3" />,
         },
+        {
+          type:"Demo",
+          href:"https://x.com/scramber01/status/2049887219071279239",
+          icon: <Icons.youtube className="size-3"/>
+        }
       ],
       image: "",
       video: "https://cdn.magicui.design/bento-grid.mp4",
