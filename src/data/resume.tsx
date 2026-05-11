@@ -26,6 +26,8 @@ export const DATA = {
     "Docker",
     "Kubernetes",
     "CI/CD",
+    "LLM",
+    "Fine tuning"
     
     
   ],
@@ -76,6 +78,18 @@ export const DATA = {
 
   work: [
     {
+      company: "Cognitoxlabs",
+      href: "",
+      badges: [],
+      location: "Remote",
+      title: "AI Engineer Intern",
+      logoUrl: "/CxL.png",
+      start: "Jan 2026",
+      end: "Apr 2026",
+      description:
+        "Built and shipped LLM-powered applications end-to-end,Designed and implemented RAG pipelines.",
+    },
+    {
       company: "Ed3hub",
       href: "https://www.ed3hub.com/",
       badges: [],
@@ -85,7 +99,7 @@ export const DATA = {
       start: "June 2025",
       end: "Dec 2025",
       description:
-        "Implemented the Bitcoin discreet log contract (DLC) protocol specifications as an open source Typescript SDK. Dockerized all microservices and setup production kubernetes cluster. Architected a data lake using AWS S3 and Athena for historical backtesting of bitcoin trading strategies. Built a mobile app using react native and typescript.",
+        "Shipped 20+ production features across dashboards, auth flows, and analytics systems used by early customers and internal teams",
     }
     
   ],
@@ -250,7 +264,7 @@ export const DATA = {
     {
       title: "Hackovillage",
       dates: "January 15rd - 17th, 2025",
-      location: "Ahmedabad,Gujarat",
+      location: "Gujarat,India",
       description:
         "Developed a personal finance app with budget tracking.",
       image:
