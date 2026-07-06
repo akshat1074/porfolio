@@ -116,6 +116,35 @@ export const DATA = {
   ],
   projects: [
     {
+      title: "CNN audio Classifier",
+      href: "",
+      dates: "Jun 2026- Jul 2026",
+      active: true,
+      description:
+        "Designed and trained a convolutional neural network in PyTorch for multi-class environmental sound classification, using mel-spectrogram feature extraction as model input ",
+      technologies: [
+        "Python",
+        "Pytorch",
+        "CNN",
+        "Mel-Spectrogram",
+        "Tensorboard",
+        "Nextjs/Typescript",
+        
+        
+      ],
+      links: [
+        
+        {
+          type: "Source",
+          href: "https://github.com/akshat1074/cnn-audio-classifier",
+          icon: <Icons.github className="size-3" />,
+        },
+       
+      ],
+      image: "/Subconcious3.png",
+      video: "",
+    },
+    {
       title: "Subconcious",
       href: "",
       dates: "Jan 2025 - Feb 2025",
