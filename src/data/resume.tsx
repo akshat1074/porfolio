@@ -116,7 +116,7 @@ export const DATA = {
   ],
   projects: [
     {
-      title: "CNN audio Classifier",
+      title: "CNN Audio Classifier",
       href: "",
       dates: "Jun 2026- Jul 2026",
       active: true,
@@ -141,7 +141,7 @@ export const DATA = {
         },
        
       ],
-      image: "/Subconcious3.png",
+      image: "/cnn.png",
       video: "",
     },
     {
