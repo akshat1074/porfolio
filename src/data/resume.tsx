@@ -280,6 +280,17 @@ export const DATA = {
   ],
   hackathons: [
     {
+      title: "Coral ",
+      dates: "November 15rd - 25th, 2025",
+      location: "Remote",
+      description:
+        "Developed a AI agent which automatically fills the empty data sets which improve data quality.",
+      image:
+        "https://pub-83c5db439b40468498f97946200806f7.r2.dev/hackline/hack-western.png",
+      mlh: "https://s3.amazonaws.com/logged-assets/trust-badge/2019/mlh-trust-badge-2019-white.svg",
+      links: [],
+    },
+    {
       title: "AI Agent",
       dates: "November 15rd - 25th, 2025",
       location: "Remote",
