@@ -215,6 +215,35 @@ export const DATA = {
         "",
     },
     {
+      title: "Recurrly",
+      href: "",
+      dates: "June 2026 - July 2026",
+      active: true,
+      description:
+        "Recurrly is a production-ready mobile app for managing subscriptions, featuring automated billing reminders and full monetization. Built with React Native, Expo, Nativewind, and Clerk.",
+      technologies: [
+        "React Native",
+        "Expo",
+        "TypeScript",
+        "MongoDB",
+        "Node.js",
+        "Clerk",
+        "PostHog",
+       
+      ],
+      links: [
+       
+        {
+          type: "Source",
+          href: "https://github.com/akshat1074/Native",
+          icon: <Icons.github className="size-3" />,
+        },
+      ],
+      image: "/native.png",
+      video:
+        "",
+    },
+    {
       title: "AI Radiologist",
       href: "",
       dates: "Dec 2025 - Jan 2026",
